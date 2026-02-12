@@ -1,0 +1,1 @@
+// Service Worker Removed for Vercel Deployment compatibility

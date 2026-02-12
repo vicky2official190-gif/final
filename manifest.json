@@ -1,0 +1,21 @@
+{
+  "name": "AS UNIVERSE APPSTORE",
+  "short_name": "AS Universe",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#131520",
+  "theme_color": "#131520",
+  "description": "Your one-stop destination for premium educational apps and tools.",
+  "icons": [
+    {
+      "src": "https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
